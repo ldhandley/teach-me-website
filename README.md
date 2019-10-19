@@ -6,4 +6,6 @@
 
 > **Student**: I want to make a new blog website for myself.
 
-**Teacher**: What's the mission of the blog?  
+**Teacher**: What's the mission of the blog? 
+
+> **Student**: To have a place where people can learn about me and read about my story. I want a blog to help build a personal brand. 
