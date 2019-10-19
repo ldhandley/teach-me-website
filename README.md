@@ -9,3 +9,5 @@
 **Teacher**: What's the mission of the blog? 
 
 > **Student**: To have a place where people can learn about me and read about my story. I want a blog to help build a personal brand. 
+
+**Teacher**: How many pages will you have, and what will their names be? 
