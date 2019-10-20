@@ -29,3 +29,5 @@
 > **Student**: How do I use the `my-website.rkt` file to generate the HTML and display that in my browser?
 
 **Teacher**:  Ah, I see in `my-website.rkt` you're defining a site.  To produce the html, you call `(render ...)` on your site.  See the `website` docs, generate your site html.
+
+> **Student**: Awesome! It looks like that worked. Now I can open up the `index.html` file, but the "My Story" link takes me to a broken page right now. Did I do something wrong?

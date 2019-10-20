@@ -30,6 +30,8 @@
               (h1 "This is my story!!")    
               (write-image (circle 40 'solid 'red)))))))
 
+(render my-site #:to "./my-website")
+
 
 ;TODO:
 ;  * Add missing attributes, src:, href:, etc...
