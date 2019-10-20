@@ -42,4 +42,3 @@
 
 **Teacher**: It's the absolute links between pages in the site get interpreted by the browser as links to the root of the filesystem.  You need to run a webserver in the same directory where you're rendering your project.  I just added a `raco website-preview` command you can use for that purpose, if you update your `website` package again.
 
-> **Student**: I pulled the latest changed to `website` and ran `raco setup website` again. I tried running `raco website-preview` in the `my-website` directory, but it's not recognizing the command.
