@@ -20,4 +20,9 @@
   at: time
   in: racket/base`
 
-**Teacher**: I'd like to fix that before we go on.  Can you `raco pkg update website` and see if you still get an error? 
+**Teacher**: I'd like to fix that before we go on.  Can you `raco pkg update website` and see if you still get an error?
+
+> **Student**: This is the error I get when I run that command in the website directory: `raco pkg update: cannot update linked packages;
+ except with a replacement package source
+  package name: website
+  package source: /Users/lindseyhandley/Dev/website` 
