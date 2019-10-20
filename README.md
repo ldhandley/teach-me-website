@@ -39,3 +39,5 @@
 
 > And here's the first blog post:
 ![first post](./img/first_post.png)
+
+**Teacher**: It's the absolute links between pages in the site get interpreted by the browser as links to the root of the filesystem.  You need to run a webserver in the same directory where you're rendering your project.  I just added a `raco website-preview` command you can use for that purpose, if you update your `website` package again.
