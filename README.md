@@ -23,3 +23,5 @@
 **Teacher**: I'd like to fix that before we go on.  Can you pull my recent changes to the `website` package, then run `raco setup website` and see if you still get an error?
 
 > **Student**: It installed without errors this time!
+
+**Teacher**: Nice!  Thanks for helping me fix that.  Now, what's next?  Is your blog project finished?  
