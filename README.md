@@ -20,4 +20,4 @@
   at: time
   in: racket/base`
 
-
+**Teacher**: I'd like to fix that before we go on.  Can you `raco pkg update website` and see if you still get an error? 
