@@ -44,3 +44,5 @@
 
 > **Student**: When I run `raco website-preview` inside the `my-website` directory, it open up a page that isn't part of my blog I think:
 ![](./img/weird_page.png)
+
+**Teacher**: Looks like I gave you a broken tool.  Can you update `website` and try the previewer again?
