@@ -28,7 +28,7 @@
       (page blog/first-post.html
             (blog-page
               (h1 "This is my story!!")    
-              (write-image (circle 40 'solid 'red)))))
+              (write-image (circle 40 'solid 'red)))))))
 
 
 ;TODO:
