@@ -24,4 +24,8 @@
 
 > **Student**: It installed without errors this time!
 
-**Teacher**: Nice!  Thanks for helping me fix that.  Now, what's next?  Is your blog project finished?  
+**Teacher**: Nice!  Thanks for helping me fix that.  Now, what's next?  Is your blog project finished? 
+
+> **Student**: How do I use the `my-website.rkt` file to generate the HTML and display that in my browser?
+
+ 
