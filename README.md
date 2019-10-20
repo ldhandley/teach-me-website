@@ -14,4 +14,10 @@
 
 > **Student** To start, I want a homepage called "Lindsey Handley" that links to at least 1 blog post called "My Story". 
 
-**Teacher**: Okay, let's put a prototype together.  Install the `website` package from https://github.com/thoughtstem/website.  Look at the `my-site.rkt` demo, and copy something like that into this repo to express how your homepage and post link up. 
+**Teacher**: Okay, let's put a prototype together.  Install the `website` package from https://github.com/thoughtstem/website.  Look at the `my-site.rkt` demo, and copy something like that into this repo to express how your homepage and post link up.
+
+> **Student**: I wasn't able to install website through the Package Manager. But I added a `my-website.rkt` file to the repository. I'm getting the following error when I try to install the website directory in Package Manager: `Users/lindseyhandley/Dev/website/scribblings/website.scrbl:3:20: module: identifier already required for label
+  at: time
+  in: racket/base`
+
+
