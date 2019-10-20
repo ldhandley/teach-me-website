@@ -35,7 +35,7 @@
 **Teacher**: Can you post a screenshot please? 
 
 > **Student**: Sure! Here's the homepage:
-[](./img/homepage.png)
+![homepage](./img/homepage.png)
 
-And here's the first blog post:
-[](./img/first_post.png)
+> And here's the first blog post:
+![first post](./img/first_post.png)
